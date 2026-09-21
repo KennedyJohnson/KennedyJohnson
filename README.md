@@ -1,4 +1,4 @@
-# Hi, I'm Ken Johnson 👋
+# Hi, I'm Ken Johnson
 
 Data Engineer at Travelers Insurance and MS Analytics student at Georgia Tech, based in St. Paul, MN. I build governance pipelines and cloud automations on Databricks and AWS.
 
